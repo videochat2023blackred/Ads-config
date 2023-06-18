@@ -1,7 +1,7 @@
 {
-"showOpenAd": false,
-"showInter": false,
-"showBanner": false,
+"showOpenAd": true,
+"showInter": true,
+"showBanner": true,
 "showFakeUsers": true,
 "showRealUsers": true,
 "version": "1.2",
