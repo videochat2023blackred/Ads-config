@@ -5,7 +5,7 @@
 "showFakeUsers": true,
 "showRealUsers": false,
 "version": "1.5",
-"countForSkip": 4,
-"countForConnect": 4,
+"countForSkip": 2,
+"countForConnect": 2,
 "countForOpenAd": 1,
 }
