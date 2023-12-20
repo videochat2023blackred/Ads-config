@@ -4,7 +4,7 @@
 "showBanner": false,
 "showFakeUsers": true,
 "showRealUsers": false,
-"version": "1.6",
+"version": "1.7",
 "countForSkip": 2,
 "countForConnect": 2,
 "countForOpenAd": 1,
