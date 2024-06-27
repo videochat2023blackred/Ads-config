@@ -1,7 +1,7 @@
 {
-"showOpenAd": false,
-"showInter": false,
-"showBanner": false,
+"showOpenAd": true,
+"showInter": true,
+"showBanner": true,
 "showFakeUsers": true,
 "showRealUsers": false,
 "version": "1.8",
