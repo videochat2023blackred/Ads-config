@@ -1,10 +1,10 @@
 {
-"showOpenAd": true,
-"showInter": true,
+"showOpenAd": false,
+"showInter": false,
 "showBanner": true,
 "showFakeUsers": true,
 "showRealUsers": false,
-"version": "1.11",
+"version": "1.12",
 "countForSkip": 2,
 "countForConnect": 2,
 "countForOpenAd": 1,
